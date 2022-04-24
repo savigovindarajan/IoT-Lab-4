@@ -1,0 +1,8 @@
+__pycache__/
+*.zip
+data/
+certs/
+groupCA/
+json/
+
+LocalReadme.md
